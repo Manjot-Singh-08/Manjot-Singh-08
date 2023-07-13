@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **Python, ML, AI, DBMS**
 
-- 📫 How to reach me **manjotsinghbhatia123@gmail.com**
+- 📧 Mail ID : **manjotsinghbhatia123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R5Ikx9rFHFyYN9OfeDOAGx4gUVOBIjYy/view?usp=sharing](https://drive.google.com/file/d/1R5Ikx9rFHFyYN9OfeDOAGx4gUVOBIjYy/view?usp=sharing)
+- 📄 Know about my experiences [bit.ly/Manjot_Singh_Bhatia_Resume](bit.ly/Manjot_Singh_Bhatia_Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
