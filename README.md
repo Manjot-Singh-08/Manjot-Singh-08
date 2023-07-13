@@ -1,3 +1,4 @@
+![logo](https://github.com/Manjot-Singh-08/Manjot-Singh-08/blob/main/Header.png)
 <h1 align="center">Hi 👋, I'm Manjot Singh Bhatia</h1>
 <h3 align="center">Pursuing Computer Science Engineering</h3>
 
